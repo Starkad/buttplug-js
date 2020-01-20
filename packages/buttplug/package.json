@@ -39,9 +39,11 @@
     "web-test-ci": "jest --runInBand web-tests/test-web-library.ts"
   },
   "dependencies": {
+    "@types/serialport": "^8.0.0",
     "ajv": "^6.10.2",
     "class-transformer": "^0.2.3",
-    "reflect-metadata": "^0.1.13"
+    "reflect-metadata": "^0.1.13",
+    "serialport": "^8.0.6"
   },
   "jest": {
     "moduleFileExtensions": [
