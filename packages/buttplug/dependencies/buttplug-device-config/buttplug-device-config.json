@@ -289,6 +289,14 @@
         "stop-bits": 1
       }
     },
+    "estim-systems-2b": {
+      "serial": {
+        "baud-rate": 9600,
+        "data-bits": 8,
+        "parity": "N",
+        "stop-bits": 1
+      }
+    },
     "vorze-cyclone-x": {
       "hid": {
         "vendor-id": 1155,
